@@ -1,0 +1,6 @@
+get http://localhost:3006/movies
+
+####
+
+post http://localhost:3006/movies
+
